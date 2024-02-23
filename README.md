@@ -2,6 +2,7 @@
 
 ## Module 20: Supervised Machine Learning 
 ### Load Risk Predictive Model Analysis
+#### Purpose
 The purpose of this assignment is to develop a predictive model that can assess the creditworthiness of borrowers based on historical lending activity. The features used to evaluate if a borrow will default on a loan are the following: 
 •	Loan size
 •	Interest rate
